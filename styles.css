@@ -1,2 +1,18 @@
+body{
+	background-color:#FBF5DD;
+}
 
-/* Your CSS Code here. */
+.main{
+	display:flex;
+	gap:2rem;
+	justify-content:center;
+	align-items:center
+}
+.main img{
+	border-radius:55%
+}
+
+.links{
+	display:flex;
+	gap:0.2rem
+}
